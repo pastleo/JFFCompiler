@@ -332,7 +332,7 @@ struct parse_nter{ // parsing non-terminals
     {'E',10,12},
     {'G',13,16},
     {'R',17,19},
-    {'Q',21,25},
+    {'Q',20,25},
     {'F',26,28}
 
     // quiz_version
